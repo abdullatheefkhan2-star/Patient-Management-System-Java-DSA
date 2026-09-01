@@ -2,7 +2,6 @@
 PATIENT MANAGEMENT SYSTEM - JAVA + DSA ONLY
 ===========================================
 
-Console application. No GUI. No other programming language.
 
 MAIN FEATURES
 1. Separate Patient Login
